@@ -1,19 +1,33 @@
-/* color palette */
+/* nav */
+
+[class*="bg"]{
+    background-color: black;
+}
+
+
 
 nav{
     background-color: var(--darkblue);
     height: 90px;
 }
 
-.bg-dark{
-    background-color: black;
+.bg{
     height: 35px;
 }
+
+/* jumbo */
 
 .jumbo{
     background-color: var(--green);
     height: 490px;
 }
+
+.jumbo .row{
+    gap: 1rem;
+}
+
+
+/* section 1 */
 
 .sec-1{
     height: 2510px;

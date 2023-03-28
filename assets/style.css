@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/* color palette */
+
 :root{
     --darkblue: #2C3E50;
     --blue: #3A546D;
