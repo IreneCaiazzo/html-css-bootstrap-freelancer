@@ -5,3 +5,35 @@
     --blue: #3A546D;
     --green:#1ABC9C;
 }
+
+nav{
+    background-color: var(--darkblue);
+    height: 90px;
+}
+
+.jumbo{
+    background-color: var(--green);
+    height: 490px;
+}
+
+.sec-1{
+    height: 2510px;
+}
+
+.sec-2{
+    height: 705px;
+}
+
+.sec-3{
+    height: 600px;
+}
+
+.upper-footer{
+    background-color: var(--blue);
+    height: 455px;
+}
+
+.lower-footer{
+    background-color: var(--darkblue);
+    height: 110px;
+}
