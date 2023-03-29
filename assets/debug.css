@@ -21,10 +21,10 @@ nav{
     background-color: var(--green);
     height: 490px;
 }
-
-.jumbo .row{
-    gap: 1rem;
-}
+/* 
+.jumbo>*{
+   margin-bottom: 1rem;
+} */
 
 
 /* section 1 */
