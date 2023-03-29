@@ -33,10 +33,8 @@ nav{
     height: 2510px;
 }
 
-.box{
-    height: 360px;
-    border-radius: 25px;
-    background-color: salmon;
+.box img{
+    width: 100%;
 }
 
 /* section 2 */
