@@ -43,12 +43,21 @@ nav{
     width: 8rem;
 }
 
-
-
 /* section 3 */
+
 .sec-3{
     height: 600px;
 }
+
+form .btn{
+    width: 8rem;
+}
+
+.form-text{
+    height: 10rem;
+}
+
+/* footer */
 
 .upper-footer{
     background-color: var(--blue);
